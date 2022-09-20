@@ -1,0 +1,4 @@
+First pushing it into the Git.
+
+
+Git Add  * --------add everything to status
