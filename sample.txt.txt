@@ -3,3 +3,10 @@ First pushing it into the Git.
 
 Git Add  * --------add everything to status
 The file edited by @udayvarun
+git init
+git clone <repo_name>
+git checkout <branch_name>
+git status
+git pull
+git push
+git commit -a <message>
